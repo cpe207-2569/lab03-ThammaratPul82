@@ -1,0 +1,158 @@
+.custom-navbar h1 {
+    color: #FAF7F0 !important;
+    background-color: #4A4947 !important;
+    font-weight: bold;
+    font-family: "Montserrat";
+    
+}
+.custom-navbar{
+    background-color: #4A4947;
+}
+
+
+.custom-navbar ul.navbar-nav a.nav-link {
+    color: #FAF7F0 !important; 
+    font-size: 1.1rem !important;
+    font-family: "Montserrat"; 
+}
+
+.custom-navbar ul.navbar-nav a.nav-link:hover{
+    color: #D8D2C2  !important; 
+    font-weight: bold !important;
+    font-family: "Montserrat";
+}
+
+.custom-navbar ul.navbar-nav a.nav-link.active {
+    color: #FEFBF6!important; 
+    font-weight: 600 !important;
+    font-family: "Montserrat";
+}
+
+.text-head-page{
+    font-family: "Montserrat";
+    font-weight: bold;
+}
+
+.text-thai{
+    font-family: "Sarabun";
+}
+
+.text-fav-link {
+    color: black;
+    font-family: "Montserrat";
+
+}
+
+.text-fav-link:hover{
+    color: #313130;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+.montserrat-{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.sarabun-thin {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.sarabun-extralight {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.sarabun-light {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.sarabun-regular {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sarabun-medium {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.sarabun-semibold {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.sarabun-bold {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.sarabun-extrabold {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.sarabun-thin-italic {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.sarabun-extralight-italic {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.sarabun-light-italic {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.sarabun-regular-italic {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.sarabun-medium-italic {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.sarabun-semibold-italic {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.sarabun-bold-italic {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.sarabun-extrabold-italic {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+
+
+
